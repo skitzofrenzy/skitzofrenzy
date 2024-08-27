@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Skitzofrenzy]
+# 👋 Hi, I'm Skitzofrenzy
 ### Full Stack Developer | Open Source Enthusiast | Tech Writer
 
 ![Profile Banner](url-to-your-banner-image)
