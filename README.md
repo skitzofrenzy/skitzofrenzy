@@ -1,7 +1,8 @@
-# 👋 Hi, I'm [Skitzofrenzy](https://github.com/skitzofrenzy)
-### Full Stack Developer | Open Source Enthusiast | Tech Writer
+
 
 <div align="center">
+  # 👋 Hi, I'm [Skitzofrenzy](https://github.com/skitzofrenzy)
+  ### Full Stack Developer | Open Source Enthusiast | Tech Writer
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlyOGFnaHZtaW9jNHJhdm0yM2g4eTEzYjFwcHFjNG9pb3J3d2MxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xFkgeu7dhfgqqxJqmj/giphy.gif" alt="Profile Banner" width="600"/>
 </div>
 
