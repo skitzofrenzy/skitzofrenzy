@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Skitzofrenzy](https://github.com/skitzofrenzy)
 ### Full Stack Developer | Open Source Enthusiast | Tech Writer
 
-![Profile Banner](url-to-your-banner-image)
+![Profile Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlyOGFnaHZtaW9jNHJhdm0yM2g4eTEzYjFwcHFjNG9pb3J3d2MxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xFkgeu7dhfgqqxJqmj/giphy.gif)
 
 ## About Me
 I'm a passionate developer with experience in building web applications using modern technologies like React, Node.js, and Python. I love contributing to open-source projects and sharing my knowledge through blog posts and tutorials.
