@@ -3,7 +3,7 @@
 <div align="center">
   <h2>👋 Hi, I'm <a href="https://github.com/skitzofrenzy">Skitzofrenzy</a></h2>
   <h3>Full Stack Developer | Problem Solver | Technology Enthusiast</h3>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlyOGFnaHZtaW9jNHJhdm0yM2g4eTEzYjFwcHFjNG9pb3J3d2MxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xFkgeu7dhfgqqxJqmj/giphy.gif" alt="Profile Banner" width="50%"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlyOGFnaHZtaW9jNHJhdm0yM2g4eTEzYjFwcHFjNG9pb3J3d2MxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xFkgeu7dhfgqqxJqmj/giphy.gif" alt="Profile Banner" width="50%" height="50%"/>
 </div> 
 
 
