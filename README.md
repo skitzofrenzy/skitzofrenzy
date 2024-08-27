@@ -2,8 +2,8 @@
 
 <div align="center">
   <h2>👋 Hi, I'm <a href="https://github.com/skitzofrenzy">Skitzofrenzy</a></h2>
-  <h3>Full Stack Developer | Problem Solver | Technology Enthusiast</h3>
-  <img src="https://github.com/skitzofrenzy/skitzofrenzy/blob/main/Animation.gif" alt="Cat Banner" width="50"/>
+  <h3>Full Stack Developer | AI & Cloud Computing Enthusiast | Security Advocate</h3>
+  <img src="https://github.com/skitzofrenzy/skitzofrenzy/blob/main/Animation.gif" alt="Cat Banner" width="50%"/>
 </div> 
 
 
