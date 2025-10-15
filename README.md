@@ -25,6 +25,8 @@ Working in the financial sector, I gained valuable experience by ensuring that a
 ## 💻 Projects
 
 - **[MyPandasReportHub](https://github.com/skitzofrenzy/MyPandasReportHub):** A versatile Excel report generator built with Python and Pandas, designed to streamline data reporting processes.
+- **[Service Outage Monitor](https://github.com/skitzofrenzy/service-outage-monitor):** Automated utility outage monitor that: - Scrapes utility/ISP outage pages on a schedule.
+- **[Loan Amortization Calculator](https://skitzofrenzy.github.io/LoanAmortizationCalculator/):** The Loan Amortization Calculator is a user-friendly web application designed to help users calculate and visualize their loan repayment schedules.
 - **CMS App:** A comprehensive CMS solution for managing inventory, tracking sales, invoicing, analytics, managing customers, and payment plans. Built with React and Laravel, this project integrates modern security practices suitable for the financial industry.
 
 ## 🌟 Achievements
